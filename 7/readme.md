@@ -6,7 +6,6 @@
 ![изображение](https://github.com/tarioma/ASM/assets/125894838/91e6f624-faff-44de-975b-1c035a998f44)
 
 #
-### №1
 C++
 ```
 int main() {
