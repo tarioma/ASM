@@ -36,7 +36,6 @@ message db 'Hello World!', 0
 times 510 - ($ - $$) db 0
 dw 0xAA55
 ```
-
 ![изображение](https://github.com/tarioma/ASM/assets/125894838/b47db49d-d69f-4127-a600-42b9612794e0)
 
 #
@@ -101,5 +100,4 @@ message3 db '403', 0
 times 510 - ($ - $$) db 0
 dw 0xAA55
 ```
-
 ![изображение](https://github.com/tarioma/ASM/assets/125894838/0fb30954-d61a-4063-9698-0b0cbc10b393)
